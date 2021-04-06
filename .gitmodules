@@ -1,0 +1,4 @@
+[submodule "kitakami-common-extras"]
+	path = kitakami-common-extras
+	url = https://github.com/Professor-Berni/proprietary_vendor_sony_extras
+	branch = lineage-18.1
